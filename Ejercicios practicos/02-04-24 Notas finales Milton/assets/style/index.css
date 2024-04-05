@@ -1,0 +1,11 @@
+.imagen {
+    width: 40%;
+    height: 10%;
+    margin: 0%;
+}
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}

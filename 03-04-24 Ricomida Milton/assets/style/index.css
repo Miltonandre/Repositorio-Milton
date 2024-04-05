@@ -1,0 +1,18 @@
+.pie {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.referencia {
+    background-color: #dc3545;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.button3 {
+    background-color: #dc3545; 
+    color: white;
+}

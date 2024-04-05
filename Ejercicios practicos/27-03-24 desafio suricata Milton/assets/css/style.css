@@ -1,0 +1,49 @@
+.navbar {
+    background-color: #fa04a8;
+}
+.suricata-vertical1 {
+    width: 7%;
+    height: 80%;
+}
+.navbar .container-fluid .navbar-brand {
+    color: white;
+    font: normal normal bold 35px/47px Open Sans;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.navbar .nav-link {
+    color: white;
+}
+.carta {
+    text-align: center;
+    font: normal normal bold 35px/47px Open Sans;
+    letter-spacing: 0px;
+    color: #707070
+}
+.card {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+.medios-pago {
+    background-color: #17a2b8;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+footer {
+    background-color: #fa04a8;
+    background-color: ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.suricata-vertical2 {
+    width: 13%;
+    height: 80%; 
+}
